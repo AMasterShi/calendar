@@ -1,0 +1,24 @@
+.currenttime:hover{
+	cursor: default;
+}
+.currentdate{
+	color: #0d6efd!important;
+}
+.currentdate:hover{
+	cursor: pointer;
+	color: #888888!important;
+}
+.y,.ny,.bi-chevron-up,.bi-chevron-down{
+	color: #888888!important;
+}
+.y:hover,.ny:hover,.bi-chevron-up:hover,.bi-chevron-down:hover{
+	cursor: pointer;
+	color: #000000!important;
+}
+table>tbody>tr>td:hover{
+	cursor: default;
+	background-color: #CFE2FF!important;
+}
+.last-tenyear,.next-tenyear,.last-year,.next-year,.last-month,.next-month{
+	color: #BBBBBB!important;
+}
