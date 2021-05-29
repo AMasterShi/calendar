@@ -34,7 +34,7 @@ Microsoft calendar control based on JavaScript
 * Write a simple javascript statement
 ```html
 <script type="text/javascript">
-			calendar("demo")
+	calendar("demo")
 </script>
 ```
 Now, you get a calendar!
