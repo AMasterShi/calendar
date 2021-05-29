@@ -4,7 +4,7 @@ Microsoft calendar control based on JavaScript
 ![calendar](img/20210529222932.png "calendar")  
 ## How to use calendar on your project?
 ### `1.import bootstrap`  
-* Because the style of this project depends on bootstrap, to display the complete style, please import bootstrap into your project first.  
+* Because the style of this project depends on [bootstrap](https://getbootstrap.com/ "bootstrap"), to display the complete style, please import bootstrap into your project first.  
 * The following is import CSS file through CDN, please import after the title tag of the HTML page.  
 ```html
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
